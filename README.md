@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nubonics
+- 👀 I’m interested in ML/AI
+- 🌱 I’m currently learning async
+- 📫 How to reach me discord nubonix#3648
